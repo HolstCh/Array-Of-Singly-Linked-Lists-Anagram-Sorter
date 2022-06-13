@@ -1,5 +1,5 @@
 # Singly-Linked-List
-Java implementation of singly linked list to find anagrams. The assignment document is: [Assignment_2.pdf](Assignment_2.pdf)
+Java implementation of a 1D array and multiple singly linked lists to find and sort anagrams. The assignment document is: [Assignment_2.pdf](Assignment_2.pdf)
 
 "CPSC319S21A2.java" is the main class and should be executed with the command line argument which is
  the filename including the ".txt" extension with the text file in the same folder location as the JAVA files.

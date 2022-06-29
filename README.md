@@ -1,4 +1,4 @@
-# Array-Of-Singly-Linked-List-Anagram-Sorter
+# Array Of Singly Linked List Anagram Sorter
 Java implementation of a base 1D array and multiple singly linked lists to find and sort anagrams. The assignment document is: [Assignment_2.pdf](Assignment_2.pdf)
 
 ## Description
